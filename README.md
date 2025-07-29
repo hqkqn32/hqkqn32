@@ -1,22 +1,17 @@
-# 📅 Son 1 Yıl GitHub İstatistikleri
+<h1 align="center">Hi, I'm Hakan 👋</h1>
 
-## ✅ **Çözüm 1: GitHub Activity Graph (Son 1 Yıl)**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hqkqn32&theme=tokyonight&hide_border=true" />
+</p>
 
-Bu direkt son 1 yılı gösterir:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hqkqn32&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-```markdown
-# Hi there! 👋 I'm hqkqn32
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqkqn32&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-
-## 📊 Son 1 Yıl GitHub Aktivitem
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hqkqn32&theme=react-dark&hide_border=true&point=FFFFFF&line=5BCDEC)
-
-### 📈 2024-2025 Dönemi İstatistiklerim
-**141 contributions** • **Son 365 gün** • **Aktif Geliştirici**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqkqn32&show_icons=true&theme=radical&hide_border=true)
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hqkqn32&theme=tokyonight&hide_border=true" />
+</p>
