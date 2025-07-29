@@ -1,2 +1,2 @@
 # Merhaba! 👋 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hqkqn32&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://niladrispandey-github-readme-streak-stats.vercel.app/?user=hqkqn32&theme=radical)
