@@ -16,11 +16,6 @@
 
 </div>
 
-## 🚀 About Me
-- 🔭 I'm currently working on web development projects
-- 🌱 I'm constantly learning new technologies
-- 💻 I'm interested in Frontend and Backend technologies
-- 📫 How to reach me: Through GitHub
 
 ## 🛠️ Technologies & Tools
 
@@ -35,17 +30,7 @@
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## 📊 Weekly Development Breakdown
 
-```text
-JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   45.2%
-HTML         3 hrs 20 mins   ████████░░░░░░░░░░░░░░░░░   18.4%
-CSS          2 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   15.1%
-React        2 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   11.9%
-Other        1 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   9.4%
-```
-
----
 
 <div align="center">
 
