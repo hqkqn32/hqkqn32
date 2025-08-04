@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=hqkqn32&label=Profile%20views&color=0e75b6&style=flat" alt="hqkqn32" />
 </p>
 
-# 👋 Hi, I'm Hakan Çanakçı (@hqkqn32)
+# 👋 Hi, I'm Hakan Çanakçı 
 
  I'm an Electrical and Electronics Engineering  passionate about **Artificial Intelligence**, especially in **Computer Vision**, **Deep Learning**, and **Language Models**.
 
