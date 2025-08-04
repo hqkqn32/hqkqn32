@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Hakan Çanakçı (@hqkqn32)
 
- I'm an Electrical and Electronics Engineering student passionate about **Artificial Intelligence**, especially in **Computer Vision**, **Deep Learning**, and **Language Models**.
+ I'm an Electrical and Electronics Engineering  passionate about **Artificial Intelligence**, especially in **Computer Vision**, **Deep Learning**, and **Language Models**.
 
  I build real-time AI systems.
 
