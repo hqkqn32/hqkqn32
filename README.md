@@ -3,29 +3,26 @@
   <img src="https://komarev.com/ghpvc/?username=hqkqn32&label=Profile%20views&color=0e75b6&style=flat" alt="hqkqn32" />
 </p>
 
-# 👋 Hi, I'm Hakan Çanakçı (hqkqn32)
+# 👋 Hi, I'm Hakan Çanakçı (@hqkqn32)
 
-🚀 I build AI systems, real-time UAV control software, and contribute to open-source projects in vision and robotics.
+ I'm an Electrical and Electronics Engineering student passionate about **Artificial Intelligence**, especially in **Computer Vision**, **Deep Learning**, and **Language Models**.
+
+ I build real-time AI systems.
 
 
 
-## 🌍 My Opensource Contributions
 
-<p>
-  <a href="https://github.com/obss/sahi">SAHI</a> • 
-  <a href="https://github.com/open-mmlab/mmtracking">MMTracking</a> • 
-  <a href="https://github.com/ultralytics/ultralytics">Ultralytics</a> • 
-  <a href="https://github.com/comfyanonymous/ComfyUI">ComfyUI</a> • 
-  <a href="https://github.com/huggingface/transformers">HuggingFace</a> • 
-  <a href="https://github.com/facebookresearch/detectron2">Detectron2</a>
-</p>
+## 🌍 My Notable Open Source Contributions
+
+- ✅ [scikit-learn](https://github.com/scikit-learn/scikit-learn) — Machine Learning in Python  
+  → [PR #31851](https://github.com/scikit-learn/scikit-learn/pull/31851): fixed inconsistency in estimator tags.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.onuralpsezer.com/?user=hqkqn32&theme=radical&hide_border=false" alt="hqkqn32 GitHub Stats" />
+  <img src="https://ghstats.onuralpsezer.com/?user=hqkqn32&theme=radical&hide_border=false" alt="GitHub Stats" />
 </p>
 
 ---
@@ -46,19 +43,12 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hqkqn32&theme=radical&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hqkqn32&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
 
-- ✉️ hakan.canakci@outlook.com
-- 🌐 [hqkqn32.github.io](https://hqkqn32.github.io) (varsa)
-- 🧠 [LinkedIn](https://www.linkedin.com/in/hqkqn32) (isteğe bağlı)
-
----
-
-_🛠️ README by [ChatGPT](https://openai.com/chatgpt) • Feel free to customize further!_
