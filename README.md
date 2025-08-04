@@ -17,15 +17,7 @@
 - ✅ [scikit-learn](https://github.com/scikit-learn/scikit-learn) — Machine Learning in Python  
   → [PR #31851](https://github.com/scikit-learn/scikit-learn/pull/31851): fixed inconsistency in estimator tags.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://ghstats.onuralpsezer.com/?user=hqkqn32&theme=radical&hide_border=false" alt="GitHub Stats" />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
