@@ -1,13 +1,4 @@
-### 🏆 Trophies
 
-<!-- 🔹 Ana servis (orijinal, şu anda kapalı olabilir) -->
-![trophy](https://github-profile-trophy.vercel.app/?username=hqkqn32&theme=onedark&v=1)
-
-<!-- 🔹 Alternatif mirror (aktif çalışan) -->
-![trophy](https://github-profile-trophy-r2.vercel.app/?username=hqkqn32&theme=onedark&no-bg=true&margin-w=10&margin-h=10)
-
-<!-- 🔹 Yedek mirror (ryo-ma / orijinal creator’ın kendi deploy’u) -->
-![trophy](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=hqkqn32&theme=onedark)
 
 
 ---
@@ -23,8 +14,6 @@
 <!-- 🔹 Cache kırma (v parametresi ile), 1 günlük yenileme -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqkqn32&layout=compact&theme=radical&cache_seconds=86400&v=1)
 
-<!-- 🔹 Alternatif mirror (Vercel bağımsız, daha hızlı yüklenir) -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hqkqn32&layout=compact&theme=radical&v=2)
 
 
 ---
