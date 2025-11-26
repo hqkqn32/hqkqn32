@@ -1,20 +1,14 @@
-
-
-
 ---
 
 ### 💻 Open Source Contributions
 - [scikit-learn #31851](https://github.com/scikit-learn/scikit-learn/pull/31851) → `FeatureHasher requires_fit=False` bugfix
 
-
 ---
 
 ### 📊 Top Languages
 
-<!-- 🔹 Cache kırma (v parametresi ile), 1 günlük yenileme -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqkqn32&layout=compact&theme=radical&cache_seconds=86400&v=1)
-
-
+<!-- 🔹 Mirror sunucu kullanıldı (Vercel’siz tamamen stabil) -->
+![Top Langs](https://github-readme-stats-git-master-openinapp.vercel.app/api/top-langs/?username=hqkqn32&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
@@ -26,13 +20,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/toramanarda/toramanarda/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ---
 
 <!-- Opsiyonel: İstersen aşağıyı da aktif edebilirsin -->
 
 <!--
 ### ⚙️ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqkqn32&show_icons=true&theme=tokyonight&v=1)
+![GitHub Stats](https://github-readme-stats-git-master-openinapp.vercel.app/api?username=hqkqn32&show_icons=true&theme=tokyonight)
 -->
-
