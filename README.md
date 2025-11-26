@@ -1,4 +1,3 @@
----
 
 ### 💻 Open Source Contributions
 - [scikit-learn #31851](https://github.com/scikit-learn/scikit-learn/pull/31851) → `FeatureHasher requires_fit=False` bugfix
