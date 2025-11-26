@@ -7,7 +7,7 @@
 ### 📊 Top Languages
 
 <!-- 🔹 Mirror sunucu kullanıldı (Vercel’siz tamamen stabil) -->
-![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=hqkqn32&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-master-danielcaldas.vercel.app/api/top-langs/?username=hqkqn32&layout=compact&theme=radical)
 
 
 ---
