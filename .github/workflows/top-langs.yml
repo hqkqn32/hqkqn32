@@ -1,8 +1,8 @@
-name: Top Languages Card
+name: Top Languages
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Her gün güncelle
   workflow_dispatch:
 
 jobs:
@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Generate GitHub Metrics (Top Languages)
+        uses: lowlighter/metrics@latest
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_LANGUAGE: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_OS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_LOC: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_LINES_OF_CODE: "False"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: hqkqn32
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: ""
+          plugin_languages_limit: 8
+          filename: top-langs.svg
