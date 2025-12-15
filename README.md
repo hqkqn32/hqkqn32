@@ -1,7 +1,7 @@
 
 ### 💻 Open Source Contributions
 - [scikit-learn #31851](https://github.com/scikit-learn/scikit-learn/pull/31851) → `FeatureHasher requires_fit=False` bugfix
-- [Transformers #42620](https://github.com/huggingface/transformers/pull/42620) 
+- [Transformers #42620](https://github.com/huggingface/transformers/pull/42620) → `Fixed a bug in DataCollatorWithFlattening` bugfix
 
 
 ---
