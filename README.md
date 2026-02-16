@@ -14,11 +14,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/toramanarda/toramanarda/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toramanarda&layout=compact&theme=default&hide_border=true" /> </p>
 ---
 
-<!-- Opsiyonel: İstersen aşağıyı da aktif edebilirsin -->
-
-<!--
-###  GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-master-openinapp.vercel.app/api?username=hqkqn32&show_icons=true&theme=tokyonight)
--->
